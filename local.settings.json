@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "APP_KIND": "workflowapp",
+    "ProjectDirectoryPath": "c:\\Users\\psrivas1\\source\\repos\\LogicAppPOC",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WORKFLOWS_TENANT_ID": "6c637512-c417-4e78-9d62-b61258e4b619",
+    "WORKFLOWS_SUBSCRIPTION_ID": "c4ad6503-94bc-44c1-a002-79483bb46e6b",
+    "WORKFLOWS_RESOURCE_GROUP_NAME": "PrateekLogicAppRG",
+    "WORKFLOWS_LOCATION_NAME": "centralindia",
+    "WORKFLOWS_MANAGEMENT_BASE_URI": "https://management.azure.com/",
+    "office365-connectionKey": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjM4RTNCRDc0NDNDNTE1ODkwNDMyOEZCRjM5MDQ2RjI5OEQzMEJCNEQiLCJ4NXQiOiJPT085ZEVQRkZZa0VNby1fT1FSdktZMHd1MDAiLCJ0eXAiOiJKV1QifQ.eyJ0cyI6IjZjNjM3NTEyLWM0MTctNGU3OC05ZDYyLWI2MTI1OGU0YjYxOSIsImNzIjoibG9naWMtYXBpcy1jZW50cmFsaW5kaWEvb2ZmaWNlMzY1LzJlZTgxNjFiNjE4ZTRmNDU5MDc4NzYzNWM0YmRjYjM2IiwidiI6Ii05MjIzMzcyMDM2ODU0Nzc1ODA4IiwiZW52aWQiOiIwZTEyYjU3Mzg5MWFlNzU1IiwiYXVkIjoiaHR0cHM6Ly8wZTEyYjU3Mzg5MWFlNzU1LjA2LmNvbW1vbi5sb2dpYy1jZW50cmFsaW5kaWEuYXp1cmUtYXBpaHViLm5ldC9hcGltL29mZmljZTM2NS8yZWU4MTYxYjYxOGU0ZjQ1OTA3ODc2MzVjNGJkY2IzNiIsInJ1bnRpbWV1cmwiOiJodHRwczovLzBlMTJiNTczODkxYWU3NTUuMDYuY29tbW9uLmxvZ2ljLWNlbnRyYWxpbmRpYS5henVyZS1hcGlodWIubmV0L2FwaW0vb2ZmaWNlMzY1LzJlZTgxNjFiNjE4ZTRmNDU5MDc4NzYzNWM0YmRjYjM2IiwibWFuYWdlbWVudCI6Imh0dHBzOi8vbWFuYWdlbWVudC5sb2dpYy1jZW50cmFsaW5kaWEuYXp1cmUtYXBpaHViLm5ldC8iLCJuYmYiOjE3MzE1OTA1NjIsImV4cCI6MTczMjE5NTM2MiwiaWF0IjoxNzMxNTkwNTYyLCJpc3MiOiJodHRwczovL2xvZ2ljLWFwaXMtY2VudHJhbGluZGlhLmF6dXJlLWFwaW0ubmV0LyJ9.YcKl3OvM_MscHV3YbPQY8Nu5wpUd_vrV_pV_Nsb1N8qggte5M0o4Q1pcJRCItkt23FOElEvmHB9uALgX_S-g5meQE21PcbmC8p_hIEIqZPgKfcZsJy4qBAIeJkRNefLxAYfA9pzUC2uo-tnDuRYz0Bme5z_zVcWFL_xK7UGzd2SVGWm7xY4Y-ZiWJ8HduA_gmkFfjSE0bTb-kxMiehKswRqup-A1bCklykV-gqfwlDlp1TCbncGuw3JDtFdHvFmPbUqHxVTR2SnOlIz2mw_c-aYyLwhf6mcfl6udkTHkmYfa3nW0klsXnzcZLhdj1dqSGABGhZihwSfQYZWOwws2nw",
+    "office365-ConnectionRuntimeUrl": "https://0e12b573891ae755.06.common.logic-centralindia.azure-apihub.net/apim/office365/2ee8161b618e4f4590787635c4bdcb36/"
+  }
+}
